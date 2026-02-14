@@ -1,0 +1,5 @@
+const CONFIG = {
+  UNSPLASH_KEY: "TA_CLE_UNSPLASH",
+  GIPHY_KEY: "ZMAdasK8F3S3NhNzpVmQZfmHecaPrIi3",
+  PEXELS_KEY: "vvzLOjkl8mJDNtZkzuJkDcSm8QKn284Wq9XpDUapkKhY1MweCJTIz2tg"
+};
